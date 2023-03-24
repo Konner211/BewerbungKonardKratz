@@ -1,0 +1,18 @@
+h1{color: rgb(26, 35, 114);
+   margin-left: 800px;
+   margin-top: 100px  ;
+font-size: 70px;}
+
+a{margin-left: 170px;
+  background-color: white;
+  text-decoration: none;
+  padding:50px;
+  color:rgb(26, 35, 114);}
+.Zeugnisse:hover{color: red;}
+
+
+.nummer1{width: 1400px;
+          height: 350px;
+        margin-left: 220px;
+         margin-top: 40px;}
+          

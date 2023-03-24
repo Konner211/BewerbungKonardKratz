@@ -1,0 +1,22 @@
+h1{color:rgb(95, 24, 24)}
+h1{margin-left: 375px;
+   margin-top: 150px;}
+h2{margin-left: 870px}
+h2{margin-top: 50px;}
+h2{color: #6297e6;}
+a{display: flex;
+   justify-content: center;}
+h2{color: #164d11;;}
+a{background-color:rgb(95, 24, 24) ;
+  color: white;
+  text-decoration: none;
+   padding: 40px;
+   border:2px solid;}
+a:hover{color:rgb(0, 0, 0);}
+
+
+.eins{width: 1400px;
+       height: 450px;
+       margin-left: 220px;
+       margin-top: 50px;}
+body{background-color: black;}
